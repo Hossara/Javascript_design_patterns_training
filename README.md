@@ -3,6 +3,7 @@
 ### Run
 Run test with 
 ```shell
+yarn install
 yarn test 
 ```
 
