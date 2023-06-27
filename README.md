@@ -1,1 +1,14 @@
-# Javascript_design_patterns_training
+# Javascript design patterns
+
+### Run
+Run test with 
+```shell
+yarn test 
+```
+
+### Patterns
+
+
+- Singleton
+  - [Code & Test](singleton-pattern)
+  - [Tutorial](https://www.patterns.dev/posts/singleton-pattern)
