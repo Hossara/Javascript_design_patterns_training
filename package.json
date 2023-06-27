@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": "git@github.com:Hossara/Javascript_design_patterns_training.git",
+  "author": "Hossein Araghi <hoseinaraghi84@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@jest/globals": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
